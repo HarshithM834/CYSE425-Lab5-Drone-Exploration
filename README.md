@@ -1,4 +1,4 @@
-# CYSE 425 — Lab 6: DJI Tello Drone Exploration
+# CYSE 425 — Lab 5: DJI Tello Drone Exploration
 
 ![Course](https://img.shields.io/badge/CYSE-425-256b95) ![Python](https://img.shields.io/badge/Python-DJITelloPy-306b99) ![Wireshark](https://img.shields.io/badge/Wireshark-802.11-1e7977)
 
